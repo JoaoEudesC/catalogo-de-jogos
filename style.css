@@ -1,0 +1,194 @@
+body{
+background-image: url(assets/papel\ de\ parede3.png);
+font-weight: 900;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+header{
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+text-align: center;
+cursor: pointer;  
+font-size: 30px;
+width: 100%;
+padding: 12px;
+box-shadow: 2px 2px 2px 2px lightgreen;
+position: fixed;
+
+}
+
+
+
+#move{
+display: flex;
+text-align: start;
+}
+
+#index{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+}
+
+
+
+h1{
+margin-bottom: 250px;
+}
+
+.link{
+background-color:#54404A;
+box-shadow: 3px 3px 3px 3px black;
+border-radius: 10px;
+padding: 5px;
+}
+
+nav :hover{
+transform: scale(1.1);
+color: white;
+transition-duration: 2s;
+}
+
+
+
+h1{text-align: center;}
+
+#pc{
+margin: 50px;
+background-color:rgba(119, 136, 153, 0.397);
+box-shadow: 6px 6px 6px black;
+padding: 10px;
+}
+
+#xbox{
+margin: 50px;
+background-color: rgba(119, 136, 153, 0.397);
+box-shadow: 6px 6px 6px 6px black;
+padding: 10px;
+}
+
+
+#play{
+margin: 50px;
+background-color: rgba(119, 136, 153, 0.397);
+box-shadow: 6px 6px 6px black;
+padding: 10px;
+}
+
+
+#raiva{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+
+
+h3{
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+margin-bottom: 50px;
+margin-left: 40px;
+font-size: 50px;
+margin-top: 300px;
+box-shadow: 6px 6px 6px 6px black;
+width: 400px;
+padding-left: 15px;
+padding-bottom: 5px;
+color: white;
+width: 60%;
+}
+
+h2{
+margin-bottom: 50px;
+text-align: center;
+margin: auto;
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+font-size: 70px;
+box-shadow: 6px 6px 6px 6px black;
+color: white;
+width: 40%;
+width: 500px;
+}
+
+
+
+
+
+#flex{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+
+
+
+p{
+background-color: rgb(92, 92, 92);
+width: 150px;
+box-shadow: 6px 6px 6px 6px black;
+font-size: 20px;
+}
+
+.paragrafo{
+margin-bottom: 50px;
+text-align: center;
+margin: auto;
+font-size: 70px;
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+width: 500px;
+box-shadow: 6px 6px 6px 6px black;
+color: white;
+width: 72%;
+}
+
+
+
+
+a :hover{
+transform: scale(1.1);
+}
+
+
+img{
+box-shadow: 6px 6px 6px 6px black;
+
+margin-bottom: 50px;
+}
+
+
+
+.imagem{
+margin-top: 20px;
+width: 40%;
+}
+
+#rodape{
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+font-size: 30px;
+text-align: center;
+color: white;
+margin: auto;
+margin-bottom: 15px;
+}
+
+.spam{
+    text-decoration: overline;
+    color: #ACDD99;
+    font-size: larger;
+}
+
+#rodape{
+    width: 600px;
+}
+
+#topo{
+    margin-top: 10px;
+}
+
+
