@@ -1,3 +1,7 @@
+*{
+box-sizing: border-box;
+}
+
 body{
 background-image: url(assets/papel\ de\ parede3.png);
 font-weight: 900;
@@ -17,6 +21,8 @@ box-shadow: 2px 2px 2px 2px lightgreen;
 position: fixed;
 
 }
+
+
 
 
 
@@ -91,7 +97,7 @@ background-color: #210700;
 background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
 margin-bottom: 50px;
 margin-left: 40px;
-font-size: 50px;
+font-size: 30px;
 margin-top: 300px;
 box-shadow: 6px 6px 6px 6px black;
 width: 400px;
@@ -105,13 +111,18 @@ h2{
 margin-bottom: 50px;
 text-align: center;
 margin: auto;
+font-size: 70px;
+color: white;
+width: 500px;
+}
+
+.jogo{
 background-color: #210700;
 background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
-font-size: 70px;
+width: 45%;
 box-shadow: 6px 6px 6px 6px black;
-color: white;
-width: 40%;
-width: 500px;
+text-align: center;
+margin: auto;
 }
 
 
@@ -138,10 +149,10 @@ margin-bottom: 50px;
 text-align: center;
 margin: auto;
 font-size: 70px;
-background-color: #210700;
-background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
 width: 500px;
 box-shadow: 6px 6px 6px 6px black;
+background-color: #210700;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
 color: white;
 width: 72%;
 }
@@ -156,39 +167,68 @@ transform: scale(1.1);
 
 img{
 box-shadow: 6px 6px 6px 6px black;
-
 margin-bottom: 50px;
+border: solid white;
 }
 
 
 
 .imagem{
 margin-top: 20px;
-width: 40%;
 }
 
-#rodape{
-background-color: #210700;
-background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
-font-size: 30px;
-text-align: center;
-color: white;
-margin: auto;
-margin-bottom: 15px;
+
+#img1{
+width: 38%;
+
 }
+
+#img2{
+width: 20%;
+
+}
+
+#img3{
+width: 38%;
+
+}
+
+
+
 
 .spam{
-    text-decoration: overline;
-    color: #ACDD99;
-    font-size: larger;
+text-decoration: underline;
+color: #ACDD99;
+font-size: larger;
 }
 
-#rodape{
-    width: 600px;
-}
+
 
 #topo{
-    margin-top: 10px;
+margin-top: 10px;
+border: none;
 }
 
+
+
+span{
+text-align: center;
+}
+
+
+
+#rodape{
+color: white;
+width: 30%;
+text-align: center;
+background-image: url("https://transparenttextures.com/patterns/bright-squares.png");
+background-color: #210700;
+}
+
+
+
+#footer{
+display: flex;
+justify-content: center;
+}
 
