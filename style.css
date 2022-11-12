@@ -32,12 +32,12 @@ margin: auto;
 border-radius: 10px 10px 10px 10px;
 margin-top: 13px;
 
+
 }
 
 
-#cabeça{
-margin-top: 200px;
-}
+
+
 
 h1{
 margin-top: 200px;
@@ -90,26 +90,39 @@ transition-duration: 2s;
 
 
 #pc{
-margin: 50px;
+margin-top: 115px;
+margin-left:  50px;
+margin-right: 50px;
 background-color:rgba(119, 136, 153, 0.397);
 box-shadow: 6px 6px 6px black;
 padding: 10px;
+
 }
 
 #xbox{
-margin: 50px;
+margin-top: 115px;
+margin-left:  50px;
+margin-right: 50px;
 background-color: rgba(119, 136, 153, 0.397);
 box-shadow: 6px 6px 6px 6px black;
 padding: 10px;
+
 }
+
+
 
 
 #play{
-margin: 50px;
+margin-top: 115px;
+margin-left:  50px;
+margin-right: 50px;
 background-color: rgba(119, 136, 153, 0.397);
 box-shadow: 6px 6px 6px black;
 padding: 10px;
+
 }
+
+
 
 
 #raiva{
