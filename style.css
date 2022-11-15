@@ -282,4 +282,48 @@ span{
 }
 
 
+@media(max-width:900px){
+  #carouselExampleInterval{
+    width: 380px;
+  }
+
+
+  
+    
+
+  .carousel-control-prev{
+    width: 40px;
+  }
+
+  .carousel-control-next{
+    width: 40px;
+  }
+
+  
+  h1{
+    width: 900px;
+    margin-left: 0px;
+  }
+
+  #pc{
+    width: 580px;
+  }
+
+  #xbox{
+    width: 580px;
+  }
+
+  #play{
+    width: 580px;
+  }
+
+  .jogo{
+    width: 540px;
+  }
+  
+    
+
+  
+}
+
 
