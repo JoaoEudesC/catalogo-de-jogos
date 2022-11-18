@@ -282,48 +282,29 @@ span{
 }
 
 
-@media(max-width:900px){
-  #carouselExampleInterval{
-    width: 380px;
-  }
-
-
-  
-    
-
-  .carousel-control-prev{
-    width: 40px;
-  }
-
-  .carousel-control-next{
-    width: 40px;
-  }
-
-  
-  h1{
-    width: 900px;
-    margin-left: 0px;
-  }
-
-  #pc{
-    width: 580px;
-  }
-
-  #xbox{
-    width: 580px;
-  }
-
-  #play{
-    width: 580px;
-  }
-
+@media(max-width:700px){
   .jogo{
-    width: 540px;
+    width: 100%;
   }
-  
+
+  #img1{
+    width: 60%;
+  }
+  #img2{
+    width: 35%;
+  }
+  #img3{
+    width: 45%;
     
+  }
 
-  
+  #carouselExampleInterval{
+    width: 170%;
+  }
+
+  h3{
+    padding: 10px;
+    font-size: 20 px;
+  }
 }
-
 
